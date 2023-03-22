@@ -32,7 +32,9 @@ CommandCount=6
 
 如图所示：
 
-<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321132115122.png" alt="image-20230321131304503" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131304503.png" alt="image-20230321131534984" style="zoom:50%;" />
+
+
 
 1.4为这个按钮“测试”添加函数声明：
 
@@ -44,7 +46,7 @@ CommandCount=6
 
 如图所示：
 
-<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131304503.png" alt="image-20230321131534984" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131534984.png" alt="image-20230321131923740" style="zoom:50%;" />
 
 1.5找到文件“Experiment_Frame_OneView.cpp”，在大概248行左右的位置添加刚刚声明的函数的实现
 
@@ -56,8 +58,9 @@ void CExperiment_Frame_OneView::OnTEST()
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131534984.png" alt="image-20230321131923740" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131923740.png" alt="image-20230321132115122" style="zoom:50%;" />
 
 1.6保存所有文件，回到VC++6，根据提示选择重新加载代码，然后F5，左上角出现“测试”按钮
 
-<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321131923740.png" alt="image-20230321132115122" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321132115122.png" alt="image-20230321131304503" style="zoom:50%;" />
+
